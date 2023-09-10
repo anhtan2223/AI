@@ -1,0 +1,6 @@
+Cage Cn ; initCage(&Cn);
+    Coord Xn = {,};
+    addToCage(&Cn,Xn);
+    Cn.operator = ;
+    Cn.result = ;
+    appendCage(&start.lCage,Cn);

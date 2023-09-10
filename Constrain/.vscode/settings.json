@@ -1,0 +1,9 @@
+{
+    "code-runner.executorMap":
+    {
+        "python" : "python3 -u"
+    },
+    "files.associations": {
+        "__config": "c"
+    }
+}
